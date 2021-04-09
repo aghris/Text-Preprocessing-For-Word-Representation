@@ -1,0 +1,11 @@
+,technique,Score,Model
+0,stem,0.825123,Skip-gram
+1,stem,0.825753,CBOW
+2,punc,0.867779,Skip-gram
+3,punc,0.856397,CBOW
+4,stop,0.843573,Skip-gram
+5,stop,0.837523,CBOW
+6,post-tag,0.857693,Skip-gram
+7,post-tag,0.858478,CBOW
+8,All,0.802158,Skip-gram
+9,All,0.796857,CBOW
