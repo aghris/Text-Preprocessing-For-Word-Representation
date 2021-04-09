@@ -10,13 +10,13 @@ A demo for the paper "**A Comprehensive Analysis of Preprocessing for Word Repre
 
 # Architecture of the project
 ## Folder 1: data
-It contains the corpus data **News** and the classification dataset **IMDB**.
+It contains a readme file with the link to the corpus data **News** and the classification dataset **IMDB**.
 
 ## Folder 2: Embeddings
-It contains the different embeddings generated using **CBOW** and **Skip gram** for each preporcessing technique.
+It contains a readme file with the link to the different embeddings generated using **CBOW** and **Skip gram** for each preporcessing technique.
 
 ## Folder 3: Weights
-It stores the best weights obtained from the **LSTM** model.
+It contains a readme file with the link to the best weights obtained from the **LSTM** model.
 
 ## Notebooks Description :
 * `Stop_Embedding.ipynb`: It contains the code for generating embeddings for stopwords removal applied to the corpus.
